@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-02T16:22:45 IST" name="Default suite" finished-at="2022-10-02T16:23:38 IST" duration-ms="53318">
+    <groups>
+    </groups>
+    <test started-at="2022-10-02T16:22:45 IST" name="Default test" finished-at="2022-10-02T16:23:38 IST" duration-ms="53318">
+      <class name="delete.delete.Search">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:delete.delete.Search@16610890]" started-at="2022-10-02T16:22:45 IST" name="launchApplication" finished-at="2022-10-02T16:22:57 IST" duration-ms="11971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="searchitem()[pri:0, instance:delete.delete.Search@16610890]" started-at="2022-10-02T16:22:57 IST" name="searchitem" finished-at="2022-10-02T16:23:38 IST" duration-ms="41217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchitem -->
+      </class> <!-- delete.delete.Search -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
